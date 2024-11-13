@@ -1,6 +1,6 @@
-# 🌏 ESN Buddy Program
+# 🌏 ESN Groningen - BI Committee
 
-Welcome to the ESN Buddy Program GitHub organization! 🎉 Here, we’re all about helping incoming international students feel at home by connecting them with friendly local buddies. Our mission? To foster new friendships, encourage cultural exchange, and build a supportive community that feels like family from day one. 🌈🤝
+Welcome to the ESN Groningen - BI Committee GitHub organization! 🎉 Here, we’re all about helping incoming international students feel at home by connecting them with friendly local buddies. Our mission? To foster new friendships, encourage cultural exchange, and build a supportive community that feels like family from day one. 🌈🤝
 
 ## About the ESN Buddy Program 💬
 
